@@ -18,3 +18,11 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country-list {
+  list-style-type: none;
+}
+.country-list-flags {
+  width: 100px;
+  height: 50px;
+}
